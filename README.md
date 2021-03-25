@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Penetration Testing and Cyber-security
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me Discord - your_hands_are_television#4237
-<b> Thank you! </b>
+<p align="center" id="1"><h1> Thank you! </h1>
 <p align="center" id="1"><b> Welcome! </b></p>
 <!---
 D347H15H3R3/D347H15H3R3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
